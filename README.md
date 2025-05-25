@@ -97,15 +97,6 @@ A Streamlit-powered recipe management and meal planning application with nutriti
 
 ---
 
-## Future Enhancements 🔮
-
-- Add user authentication for personalized meal plans.
-- Integrate an API for expanded nutritional data.
-- Support image uploads for recipes.
-- Include cooking time and difficulty filters.
-
----
-
 ## Contributing 🤝
 
 Contributions are welcome! Fork the repository, create a branch, and submit a pull request. For major changes, open an issue first.
