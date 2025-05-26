@@ -1,7 +1,5 @@
 # Dish-Dashboard
 A Streamlit-powered recipe management and meal planning application with nutritional insights.
-**Single-line Description**:  
-"A Streamlit-powered recipe management and meal planning application with nutritional insights."
 
 ---
 
