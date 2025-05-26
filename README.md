@@ -24,7 +24,6 @@
 - **Frontend**: Streamlit
 - **Backend**: Python
 - **Data Handling**: CSV, Pandas
-- **Image Processing**: Pillow (PIL)
 - **Nutritional Data**: Custom dictionary-based calculations
 
 ---
